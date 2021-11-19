@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Mintic_Usa_Reto3.Mintic_Usa_Reto3.MinticUsaReto3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.858 s - in Mintic_Usa_Reto3.Mintic_Usa_Reto3.MinticUsaReto3ApplicationTests
